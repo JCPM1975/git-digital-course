@@ -19,3 +19,9 @@
 
 # Git Log: Recupera o histórico dos commits
 # Git Restore: Descarta as alterações feitas
+#              Se for antes de colocar na área de STAGE, basta digitar "git restore"
+#              Se for depois de colocar na área de STAGE (depois do git add + nome do arquivo), seiga os passos
+#                1 - Digitar "git restore --staged + nome do arquivo". O arquivo vai voltar para a STAGE
+#                2 - Digitar "git restore" para cancelar as alterações feitas
+
+
