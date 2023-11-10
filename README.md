@@ -17,5 +17,5 @@
 
 
 
-# Git Log
-# Git Restore
+# Git Log: Recupera o histórico dos commits
+# Git Restore: Descarta as alterações feitas
