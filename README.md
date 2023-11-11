@@ -41,3 +41,9 @@
 # Git log --oneline --decorate: Verificar para qual branch o ponteiro HEAD está apontando no momento
 # Git Checkout: Trocar a branch para onde o ponteiro HEAD está apontando. 
 #               Ex.: git checkout teste
+
+# git branch: criar uma nova branch. 
+#             Ex.: git branch teste 
+# git merge teste: Fazer o merge de duas branches.
+#                  IMPORTANTE: Para fazer o merge, você tem que está na branch que receberá as alterações.
+ 
