@@ -36,3 +36,8 @@
 #            Em seguinda usar Git diff origin/master: mostrar as alterações feitas no repositório remoto  
 #            Em seguinda usar Git pull
 
+# Git Branch: Criar uma nova branch. 
+#             Ex.: git branch teste
+# Git log --oneline --decorate: Verificar para qual branch o ponteiro HEAD está apontando no momento
+# Git Checkout: Trocar a branch para onde o ponteiro HEAD está apontando. 
+#               Ex.: git checkout teste
