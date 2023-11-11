@@ -28,8 +28,8 @@
 # Git remote: Verifica o repositório no momento (ORIGIN)
 
 # Git Push: Enviar as alterações comitadas (get commit -m) e no repositório local (ORIGIN) para o repositório remoto (MASTER)
-#           git push  origin master: enviar os dados do repositório local ORIGIN para o direório remoto MASTER         
+#           git push  origin master: enviar os dados do repositório local ORIGIN para o repositório remoto MASTER         
 # Git Pull: Enviar as alterações do repositório remoto (MASTER) para o repositório local (ORIGIN)
-#
+#           git pull master origin: enviar os dados do repositório local MASTER para o repositório remoto ORIGIN
 
 
