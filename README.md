@@ -24,4 +24,11 @@
 #                1 - Digitar "git restore --staged + nome do arquivo". O arquivo vai voltar para a STAGE
 #                2 - Digitar "git restore" para cancelar as alterações feitas
 
+# git remote add origin https://github.com/JCPM1975/git-digital-course.git : Criar o repositório local ORIGIN a partir do diretório remoto https://github.com/JCPM1975/git-digital-course.git
+# Git remote: Verifica o repositório no momento (ORIGIN)
+
+# Git Push: Enviar as alterações comitadas (get commit -m) e no repositório local (ORIGIN) para o repositório remoto (MASTER)
+#           git push  origin master: enviar os dados do repositório local ORIGIN para o direório remoto MASTER         
+# Git Pull: Enviar as alterações do repositório remoto (MASTER) para o repositório local (ORIGIN)
+#           git pull
 
