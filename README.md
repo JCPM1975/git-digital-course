@@ -25,11 +25,14 @@
 #                2 - Digitar "git restore" para cancelar as alterações feitas
 
 # git remote add origin https://github.com/JCPM1975/git-digital-course.git : Criar o repositório local ORIGIN a partir do diretório remoto https://github.com/JCPM1975/git-digital-course.git
-# Git remote: Verifica o repositório no momento (ORIGIN)
+# Git remote: Verifica o repositório no momento (ORIGIN/MASTER)
 
-# Git Push: Enviar as alterações comitadas (get commit -m) e no repositório local (ORIGIN) para o repositório remoto (MASTER)
-#           git push  origin master: enviar os dados do repositório local ORIGIN para o repositório remoto MASTER         
-# Git Pull: Enviar as alterações do repositório remoto (MASTER) para o repositório local (ORIGIN)
+# Git Push: Enviar as alterações comitadas (get commit -m) e no repositório local (MASTER) para o repositório remoto (ORIGIN)
+#           git push  origin master: enviar os dados do repositório local MASTER para o repositório remoto ORIGIN         
+# Git Pull: Enviar as alterações do repositório remoto (ORIGIN) para o repositório local (MASTER)
 #           git pull master origin: enviar os dados do repositório local MASTER para o repositório remoto ORIGIN
 
+# Git Fetch: Mostra as alterações feitas antes de alterar/sobrepor o arquivo local (MASTER)
+#            Em seguinda usar Git diff origin/master: mostrar as alterações feitas no repositório remoto  
+#            Em seguinda usar Git pull
 
